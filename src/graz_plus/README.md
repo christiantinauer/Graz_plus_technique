@@ -1,7 +1,7 @@
 # Graz+
 
 - Based on Tensorflow/Keras
-- CNN Classifier
+- CNN classifier
 - Deep Taylor Decomposition
 - Relevance-guided training
 - Training on two GPUs
