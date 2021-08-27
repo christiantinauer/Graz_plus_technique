@@ -1,4 +1,4 @@
-# Graz+ preprocessing
+# Graz<sup>+</sup> preprocessing
 
 Using nipype and FSL 6.0.3 creating:
 - brain mask with BET
