@@ -1,4 +1,4 @@
-# Graz+
+# Graz<sup>+</sup> technique
 
 - Based on Tensorflow/Keras
 - CNN classifier
